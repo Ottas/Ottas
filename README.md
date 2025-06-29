@@ -21,8 +21,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Threat Hunting Scenario: TOR (Project Creation) | TOR Scenario (Azure)|
-
+| Threat Hunting Scenario: TOR (Project Creation) | <a href=https://github.com/Ottas/TOR-Scenario-Azure-/blob/main/README.md
+TOR Scenario (Azure) </a>
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
