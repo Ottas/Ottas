@@ -69,4 +69,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - SOC Automation Project
 - <a href="https://github.com/Ottas/TOR-Scenario-Azure-/tree/main">TOR Scenario (Azure) </a>
 - Azure Live Traffic
--Microsoft Sentinel Workbooks
+- Microsoft Sentinel Workbooks
