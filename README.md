@@ -23,7 +23,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | Threat Hunting Scenario: TOR (Project Creation) | <a href="https://github.com/Ottas/TOR-Scenario-Azure-/tree/main">TOR Scenario (Azure) </a> 
 | Building a SOC + Honeynet                     | Azure Live Traffic |
-|  Building Custom Workbooks in Sentinel    | Sentinel Workbooks |
+|  Building Custom Workbooks in Sentinel    | Microsoft Sentinel Workbooks |
 
 
 ## Tools
@@ -69,4 +69,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - SOC Automation Project
 - <a href="https://github.com/Ottas/TOR-Scenario-Azure-/tree/main">TOR Scenario (Azure) </a>
 - Azure Live Traffic
-- Sentinel Workbooks
+-Microsoft Sentinel Workbooks
