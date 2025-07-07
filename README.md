@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| CTI Integration (OpenCTI - SPLUNK)        | <a href="https://github.com/Ottas/CTI-Integration">CTI Detection Lab</a>|
+| CTI Integration (OpenCTI - SPLUNK)        | <a href="https://github.com/Ottas/CTI-Integration">CTI Integration Lab</a>|
 | Network Packet Indexer (Arkime)           | <a href="https://github.com/Ottas/Network-Packet-Indexer">Arkime Traffic Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -62,7 +62,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- <a href="https://github.com/Ottas/CTI-Integration">CTI Detection Lab</a>|
+- <a href="https://github.com/Ottas/CTI-Integration">CTI Integration Lab</a>|
 - <a href="https://github.com/Ottas/Network-Packet-Indexer">Arkime Traffic Lab</a>
 - <a href="https://github.com/Ottas/TOR-Scenario-Azure-/tree/main">TOR Scenario (Azure) </a>
 - Azure Live Traffic
