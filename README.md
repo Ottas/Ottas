@@ -1,8 +1,7 @@
 # Hello, I'm John Ottas
 <a href="https://www.linkedin.com/in/john-ottas-6a980b204"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a computer science graduate with a deep passion for technology and a strong dedication to solving complex problems. I am especially enthusiastic about cybersecurity and eager to build a successful career in this exciting field.
 
 ## Objective
 
