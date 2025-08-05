@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Threat Hunting Scenario: TOR (Project Creation) | <a href="https://github.com/Ottas/TOR-Scenario-Azure-/tree/main">TOR Scenario (Azure) </a> 
+| Threat Hunting Scenario: TOR (Microsoft Azure) | <a href="https://github.com/Ottas/TOR-Scenario-Azure-/tree/main">TOR Scenario (Azure) </a> 
 | Building a SOC + Honeynet                     | Azure Live Traffic |
 |  Building Custom Workbooks in Sentinel    | <a href="https://github.com/Ottas/Microsoft-Sentinel-Workboorks">Microsoft Sentinel Workbooks </a>
 
