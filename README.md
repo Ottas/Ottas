@@ -78,7 +78,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- <a href="https://github.com/Ottas/CTI-Integration">CTI Integration Lab</a>|
+- <a href="https://github.com/Ottas/CTI-Integration">CTI Integration Lab</a>
 - <a href="https://github.com/Ottas/Network-Packet-Indexer">Arkime Traffic Lab</a>
 - <a href="https://google.com">Detection Lab (under-construction)</a>
 - <a href="https://github.com/Ottas/TOR-Scenario-Azure-/tree/main">TOR Scenario (Azure) </a>
