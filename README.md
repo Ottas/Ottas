@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | CTI Integration (OpenCTI - SPLUNK)        | <a href="https://github.com/Ottas/CTI-Integration">CTI Integration Lab</a>|
 | Network Packet Indexer (Arkime)           | <a href="https://github.com/Ottas/Network-Packet-Indexer">Arkime Traffic Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab (under-construction)</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Ottas/Detection-Lab">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -80,7 +80,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/Ottas/CTI-Integration">CTI Integration Lab</a>
 - <a href="https://github.com/Ottas/Network-Packet-Indexer">Arkime Traffic Lab</a>
-- <a href="https://google.com">Detection Lab (under-construction)</a>
+- <a href="https://github.com/Ottas/Detection-Lab">Detection Lab</a>|</a>
 - <a href="https://github.com/Ottas/TOR-Scenario-Azure-/tree/main">TOR Scenario (Azure) </a>
 - Azure Live Traffic
 - <a href="https://github.com/Ottas/Microsoft-Sentinel-Workboorks">Microsoft Sentinel Workbooks </a>
