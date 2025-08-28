@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Ottas/Detection-Lab">Detection Lab</a>|
 | Threat Hunting Scenario: TOR (Microsoft Azure) | <a href="https://github.com/Ottas/TOR-Scenario-Azure-/tree/main">TOR Scenario (Azure) </a> 
 |  Building Custom Workbooks in Sentinel    | <a href="https://github.com/Ottas/Microsoft-Sentinel-Workboorks">Microsoft Sentinel Workbooks </a>
-|  Splunk SOAR Integration    | <a href=""> Splunk SOAR Integration</a>
+|  Splunk SOAR Integration    | <a href=""> SOC Automation Lab</a>
 
 
 ## Tools
