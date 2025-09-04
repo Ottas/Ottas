@@ -79,4 +79,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/Ottas/Detection-Lab">Detection Lab</a>
 - <a href="https://github.com/Ottas/TOR-Scenario-Azure-/tree/main">TOR Scenario (Azure) </a>
 - <a href="https://github.com/Ottas/Microsoft-Sentinel-Workboorks">Microsoft Sentinel Workbooks </a>
-- <a href="" >SOC Automation Lab </a>
+- <a href="" >SOC Automation Lab (under construction) </a>
