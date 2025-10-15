@@ -63,6 +63,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
 </div>
 
+### Programming Language
+<div>
+   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+   <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
     
