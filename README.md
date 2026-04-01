@@ -5,7 +5,7 @@ I have a degree in Computer Science and am working towards building a career in 
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1-3 Analyst.
+I am particularly interested in networking, automation, and IT infrastructure, aiming to contribute by leveraging my skills in system administration, network management, automation tools like Ansible, and Python scripting, while continuously improving and optimizing processes.
 
 ## Skills
 
