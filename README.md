@@ -1,7 +1,7 @@
 # Hello, I'm John Ottas
 <a href="https://www.linkedin.com/in/john-ottas-6a980b204"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a computer science graduate with a deep passion for technology and a strong dedication to solving complex problems. I am especially enthusiastic about cybersecurity and eager to build a successful career in this exciting field.
+I have a degree in Computer Science and am working towards building a career in networking, automation, and DevOps. I am a technology enthusiast passionate about designing efficient, reliable, and scalable systems, and I enjoy learning and applying new tools and technologies to solve real-world problems.
 
 ## Objective
 
